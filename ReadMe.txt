@@ -48,10 +48,3 @@ A container view class used to populate the contents for table view cells that r
 
 main.m
 Entry point for the application. Creates the application object, sets its delegate, and causes the event loop to start.
-
-===========================================================================
-CHANGES FROM PREVIOUS VERSIONS:
-
-
-===========================================================================
-Copyright (C) 2013 Apple Inc. All rights reserved.
